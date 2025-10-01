@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/Mark/BankPerks/bankperks_gemini/logs/.31c7e7b8d2652af011fe256aedcb0a1d6271efe2-audit.json",
+    "files": [
+        {
+            "date": 1759293951722,
+            "name": "/Users/Mark/BankPerks/bankperks_gemini/logs/mcp-puppeteer-2025-09-30.log",
+            "hash": "a78704e1b141a8294e06224e133fda76d1af7c284acb1e2ff9b1790101f8cde3"
+        }
+    ],
+    "hashType": "sha256"
+}
